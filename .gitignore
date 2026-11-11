@@ -1,5 +1,15 @@
+# Build output
 bin/
 obj/
+**/bin/
+**/obj/
+
+# IDE settings
 .idea/
 .vs/
 *.user
+*.suo
+
+# OS files
+Thumbs.db
+.DS_Store
